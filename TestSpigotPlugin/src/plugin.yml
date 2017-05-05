@@ -1,0 +1,7 @@
+name: PartySystemTest
+version: 1.0
+author: Paul1365972
+main: de.paul.main.Test
+
+commands:
+    testy:
